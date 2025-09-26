@@ -38,7 +38,7 @@ A Streamlit web app that scrapes job postings from career pages, extracts requir
 streamlit run app.py
 ```
 
-1. Enter the career/job posting URL.
+1. Enter the valid available career/job posting URL.
 2. (Optional) Edit your profile prompt to personalize your email.
 3. Click **Scrape Job** to extract job details.
 4. Click **Generate Email** to create a personalized cold email.
