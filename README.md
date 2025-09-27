@@ -16,7 +16,7 @@ A Streamlit web app that scrapes job postings from career pages, extracts requir
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/siddz2811/ColdEmail_Creator.git
    cd <repo-name>
    ```
 
